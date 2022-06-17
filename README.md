@@ -11,4 +11,5 @@
 https://user-images.githubusercontent.com/102430476/174318637-07429148-ebab-4179-b547-fbe894295982.mp4
 
 
-# Open New terminal within VS code or cmdline: ![Picture of webpage 1](./assets/ss-1.png)
+# Open New terminal within VS code or cmdline: 
+#### ![Picture of webpage 1](./assets/ss-1.png)
