@@ -12,4 +12,16 @@ https://user-images.githubusercontent.com/102430476/174318637-07429148-ebab-4179
 
 
 # Open New terminal within VS code or cmdline: 
-#### ![Picture of webpage 1](./assets/ss-1.png)
+![Picture 1](./assets/ss-1.png)
+
+# Type "node index.js within VS code or cmdline: 
+![Picture 2](./assets/ss-2.png)
+
+# Answer questions within VS code or cmdline to produce *README*: 
+![Picture 3](./assets/ss-3.png)
+
+# Click "preview" within VS code: 
+![Picture 4](./assets/ss-4.png)
+
+# View *README* within preview to see outcome and navigate links: 
+![Picture 4](./assets/ss-5.png)
