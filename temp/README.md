@@ -1,35 +1,34 @@
-# y
-  ![badmath](https://img.shields.io/badge/License-MIT-brightgreen)
+# Professional README Generator
+  
 
 ## Table Of Contents:
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
-- [License](#license)
+
 - [Test](#test)
 - [Questions](#questions)
 
 
 ## Description
-y
+To build a README file with using javascript langauge to aid with navigation and ease of use when review projects
 
 ## Installation
-y
+This project will build a README based upon the answers you provide to aid with future work development and navigation to users
 
 ## Usage
-y
+To answer questions in accordance to the outcome desired
 
 ## Contribution
-y
+By contacting myself and other contributors within the project
 
 ## Test
-y
+To review the material and navigation links for functionality
 
 ## Questions
 If you have additional questions reach out to me at:
-  * [y](y)
-  * [github.com/y](https://github.com/y)
+  * [quicksilver524@gmail.com](quicksilver524@gmail.com)
+  * [github.com/quicksilver524](https://github.com/quicksilver524)
 
-  ## License
-    info:The License MIT Is Used For This Application.
+  
